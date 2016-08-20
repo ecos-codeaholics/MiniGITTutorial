@@ -1,8 +1,18 @@
 package edu.uniandes.ecos.codeaholics.practice;
 
 /**
- * Hello world!
+ * Package: edu.uniandes.ecos.codeaholics.practice
  *
+ * Class: App
+ * 
+ * Original Author: @author AOSORIO
+ * 
+ * Description: This is the starting point for out turial
+ * 
+ * Implementation: this is maven's quickstart archetype
+ *
+ * Created: 19/08/2016
+ * 
  */
 public class App 
 {
